@@ -1,0 +1,10 @@
+HEY! I hope your reading this. 
+--------------------------------
+I am using p5.js with this project and i have background music for this when you click the anywhere.
+
+It will get annoying so do it once.
+------------------------------------
+
+Use web server for chrome to get the full p5.js experience.
+
+Thank you! - Antonio

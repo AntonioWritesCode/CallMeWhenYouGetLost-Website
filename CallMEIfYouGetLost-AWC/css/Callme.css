@@ -1,0 +1,57 @@
+.outer{
+  font-size: 30px;
+  font-family: Objectivity Black;
+  color: #e3bc5e;
+  text-align: center;
+}
+
+.underText {
+  font-family: Objectivity Black;
+  color: #e3bc5e;
+  text-align: center;
+  padding: -20px;
+}
+
+body {
+  background-color: #fbeccc;
+}
+
+#tabs {
+  display: flex;
+  list-style: none;
+  float: left;
+}
+
+li a {
+  padding: 20px 140px;
+  border: 1.5px solid #6dcbd2;
+  font-size: 20px;
+  font-family: Objectivity Black;
+  color: #ccba76;
+}
+
+.text {
+  padding: 60px 55px;
+  font-family: Objectivity Black;
+  color: #c3e3bc;
+  font-size: 20px;
+}
+
+#images img{
+  padding: 20px 40px;
+  width: 400px;
+  height: auto;
+  border: 2px solid #6dcbd2;
+}
+
+#textSongs{
+  font-size: 20px;
+  font-family: Objectivity Black;
+}
+
+a {
+  display: left;
+  float: left;
+  padding: 20px 140px;
+  color: #c3e3bc;
+}

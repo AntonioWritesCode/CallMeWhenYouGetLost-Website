@@ -1,0 +1,26 @@
+h1{
+  color: #4d2e1e;
+  text-align: center;
+  font-family: Objectivity Black;
+  font-size: 80px;
+}
+
+body{
+  background-color: #fbeccc;
+}
+
+p{
+  color: #6dcbd2;
+  font-family: Objectivity Black;
+  
+}
+
+ul {
+  list-style: none;
+}
+
+li a {
+  font-family: Objectivity Black;
+  color: #6dcbd2;
+  font-size: 30px;
+}

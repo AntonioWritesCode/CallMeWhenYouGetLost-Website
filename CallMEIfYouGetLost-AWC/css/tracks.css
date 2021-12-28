@@ -1,0 +1,38 @@
+body {
+  background-color: #e4f9ec;
+}
+
+.textTracks {
+  font-family: Objectivity Black;
+  text-align: center;
+  font-size: 20px;
+  color: #f3cfc1;
+}
+
+
+.Tracks li{
+  text-align: center;
+  list-style-type: none;
+  font-family: Objectivity Black;
+  color: #6dcbd2;
+  padding: 10px;
+}
+
+p {
+  text-align: center;
+  font-family: Objectivity Black;
+  color: #c3e3bc;
+}
+
+img {
+  padding: 40px 560px;
+  width: 400px;
+  height: auto;
+}
+
+ul li {
+  list-style-type: none;
+  font-family: Objectivity Black;
+  font-size: 30px;
+  color: #6dcbd2;
+}
